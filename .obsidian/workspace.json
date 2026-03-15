@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Описание.md",
+                "file": "Шаги для изучения каждой темы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Описание"
+              "title": "Шаги для изучения каждой темы"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "03605518d64a8158",
   "lastOpenFiles": [
+    "Описание.md",
     "Шаги для изучения каждой темы.md",
     "Ну главные навыки которые нужны на фактической работе.md",
     "DB/Список тем.md",
@@ -203,7 +204,6 @@
     "JDBC&HIBERNATE/Список тем.md",
     "SPRING/Список тем.md",
     "WEB/Список тем.md",
-    "Описание.md",
     "SPRING",
     "WEB",
     "JDBC&HIBERNATE",
