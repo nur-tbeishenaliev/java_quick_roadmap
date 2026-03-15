@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Описание"
             }
+          },
+          {
+            "id": "c32714ddeda17abd",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: appearance.json  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03605518d64a8158",
+  "active": "c32714ddeda17abd",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Описание.md",
     "Ну главные навыки которые нужны на фактической работе.md",
     "FILES",
     "FILES/Pasted image 20260315184046.png",
     "Шаги для изучения каждой темы.md",
-    "Описание.md",
     "DB/Список тем.md",
     "Java/Список тем.md",
     "JDBC&HIBERNATE/Список тем.md",
