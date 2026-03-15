@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ну главные навыки которые нужны на фактической работе.md",
+                "file": "Шаги для изучения каждой темы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ну главные навыки которые нужны на фактической работе"
+              "title": "Шаги для изучения каждой темы"
+            }
+          },
+          {
+            "id": "2aa38606077ed590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Описание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Описание"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,20 +206,23 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "501fac4f43a03bcc",
+  "active": "cca34fbdb6224272",
   "lastOpenFiles": [
+    "Ну главные навыки которые нужны на фактической работе.md",
+    "Java/conspetcts/Drawing 2026-03-15 18.59.22.excalidraw.md",
+    "Шаги для изучения каждой темы.md",
+    "Java/conspetcts",
+    "SPRING/Список тем.md",
+    "Описание.md",
+    "Java/Список тем.md",
     "FILES",
     "FILES/Pasted image 20260315184046.png",
-    "Шаги для изучения каждой темы.md",
-    "Описание.md",
-    "Ну главные навыки которые нужны на фактической работе.md",
     "DB/Список тем.md",
-    "Java/Список тем.md",
     "JDBC&HIBERNATE/Список тем.md",
-    "SPRING/Список тем.md",
     "WEB/Список тем.md",
     "SPRING",
     "WEB",
